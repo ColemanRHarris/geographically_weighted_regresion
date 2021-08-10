@@ -1,0 +1,2 @@
+# geographically_weighted_regresion
+Project implementing distance matrix anonymization into regression methods
